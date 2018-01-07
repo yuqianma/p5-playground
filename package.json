@@ -1,0 +1,22 @@
+{
+  "name": "p5-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/yuqianma/p5-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/yuqianma/p5-playground/issues"
+  },
+  "homepage": "https://gitlab.com/yuqianma/p5-playground#README",
+  "dependencies": {
+    "p5": "^0.5.16"
+  }
+}
