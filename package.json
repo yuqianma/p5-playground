@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://gitlab.com/yuqianma/p5-playground#README",
   "dependencies": {
-    "p5": "^0.5.16"
+    "p5": "^0.9.0"
   }
 }
