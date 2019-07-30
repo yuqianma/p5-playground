@@ -1,21 +1,17 @@
 {
   "name": "p5-playground",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "M's p5 playground",
+  "main": "src/index.js",
   "scripts": {
     "start": "npx parcel index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/yuqianma/p5-playground.git"
+    "url": "git@github.com:yuqianma/p5-playground.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/yuqianma/p5-playground/issues"
-  },
-  "homepage": "https://gitlab.com/yuqianma/p5-playground#README",
+  "author": "Yuqian Ma",
+  "license": "MIT",
   "dependencies": {
     "p5": "^0.9.0"
   }
